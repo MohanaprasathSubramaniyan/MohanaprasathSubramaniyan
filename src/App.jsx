@@ -330,7 +330,7 @@ function App() {
                 >
                   <div className="flex flex-col md:flex-row justify-between mb-8 gap-4">
                     <div>
-                      <h3 className="text-3xl font-extrabold tracking-[-0.04em] mb-1">Data Engineer | MODEC (Client)</h3>
+                      <h3 className="text-3xl font-extrabold tracking-[-0.04em] mb-1">Data Scientist | MODEC (Client)</h3>
                       <p className="text-[11px] font-medium text-zinc-500 uppercase tracking-[0.2em]">HESC (Employer)</p>
                     </div>
                     <div className="text-left md:text-right">
@@ -355,7 +355,7 @@ function App() {
                 >
                   <div className="flex flex-col md:flex-row justify-between mb-8 gap-4">
                     <div>
-                      <h3 className="text-3xl font-extrabold tracking-[-0.04em] mb-1">Data Engineer | Equinor (Client)</h3>
+                      <h3 className="text-3xl font-extrabold tracking-[-0.04em] mb-1">Data Scientist | Equinor (Client)</h3>
                       <p className="text-[11px] font-medium text-zinc-500 uppercase tracking-[0.2em]">HESC (Employer)</p>
                     </div>
                     <div className="text-left md:text-right">
@@ -753,7 +753,7 @@ function App() {
               <p className="text-[11px] font-medium uppercase tracking-[0.4em] text-zinc-400 mb-2">Experience</p>
               <h2 className="text-5xl font-extrabold text-white tracking-[-0.04em] mb-6">Work Experience</h2>
               <p className="text-zinc-400 text-lg font-normal tracking-tight">
-                Data Scientist & Engineer specialized in high-velocity ETL pipelines, MLOps, and predictive modeling.
+                Data Scientist specialized in high-velocity ETL pipelines, MLOps, and predictive modeling.
               </p>
             </motion.div>
 
@@ -761,7 +761,7 @@ function App() {
               <motion.div variants={scrollVariants} initial="initial" whileInView="animate" viewport={{ once: true, margin: "-20px" }} className={glassCardClass}>
                 <div className="flex flex-col md:flex-row justify-between mb-8 gap-4">
                   <div>
-                    <h3 className="text-3xl font-extrabold tracking-[-0.04em] mb-1">Data Engineer | MODEC (Client)</h3>
+                    <h3 className="text-3xl font-extrabold tracking-[-0.04em] mb-1">Data Scientist | MODEC (Client)</h3>
                     <p className="text-[11px] font-medium text-zinc-500 uppercase tracking-[0.2em]">HESC (Employer)</p>
                   </div>
                   <div className="text-left md:text-right">
@@ -801,7 +801,7 @@ function App() {
               <motion.div variants={scrollVariants} initial="initial" whileInView="animate" viewport={{ once: true, margin: "-20px" }} className={glassCardClass}>
                 <div className="flex flex-col md:flex-row justify-between mb-8 gap-2">
                   <div>
-                    <h3 className="text-2xl font-extrabold tracking-[-0.04em]">Junior Data Analyst — NTT DATA</h3>
+                    <h3 className="text-2xl font-extrabold tracking-[-0.04em]">Junior Data Scientist — NTT DATA</h3>
                     <p className="text-zinc-500 font-medium text-sm">India</p>
                   </div>
                   <div className="text-left md:text-right">
