@@ -291,7 +291,7 @@ function App() {
               <div className="lg:col-span-4 space-y-4 pt-12">
                 <motion.div variants={itemVariants} custom={direction} className="p-8 rounded-[32px] bg-white/5 backdrop-blur-xl border border-white/10 shadow-2xl text-white">
                   <p className="text-[11px] font-medium uppercase tracking-[0.4em] text-zinc-400 mb-4">Experience</p>
-                  <p className="text-3xl font-extrabold tracking-[-0.04em]">2+ years</p>
+                  <p className="text-3xl font-extrabold tracking-[-0.04em]">3+ years</p>
                 </motion.div>
 
                 <motion.div variants={itemVariants} custom={direction} className="p-8 rounded-[32px] bg-white/5 backdrop-blur-xl border border-white/10 shadow-2xl text-white">
@@ -335,7 +335,7 @@ function App() {
                     </div>
                     <div className="text-left md:text-right">
                       <p className="text-lg font-extrabold text-zinc-900 tracking-[-0.04em]">India</p>
-                      <p className="text-[11px] font-medium text-zinc-500 uppercase tracking-[0.1em]">Jan 2024 – Jul 2024</p>
+                      <p className="text-[11px] font-medium text-zinc-500 uppercase tracking-[0.1em]">Jan 2023 – Jul 2024</p>
                     </div>
                   </div>
                   <ul className="space-y-4 text-[15px] text-zinc-800 font-normal leading-relaxed tracking-tight w-full">
@@ -360,7 +360,7 @@ function App() {
                     </div>
                     <div className="text-left md:text-right">
                       <p className="text-lg font-extrabold text-zinc-900 tracking-[-0.04em]">India</p>
-                      <p className="text-[11px] font-medium text-zinc-500 uppercase tracking-[0.1em]">Aug 2023 – Dec 2023</p>
+                      <p className="text-[11px] font-medium text-zinc-500 uppercase tracking-[0.1em]">Jan 2022 – Dec 2023</p>
                     </div>
                   </div>
                   <ul className="space-y-4 text-[15px] text-zinc-800 font-normal leading-relaxed tracking-tight w-full">
@@ -766,7 +766,7 @@ function App() {
                   </div>
                   <div className="text-left md:text-right">
                     <p className="text-lg font-extrabold text-zinc-900 tracking-[-0.04em]">India</p>
-                    <p className="text-[11px] font-medium text-zinc-500 uppercase tracking-[0.1em]">Jan 2024 – Jul 2024</p>
+                    <p className="text-[11px] font-medium text-zinc-500 uppercase tracking-[0.1em]">Jan 2023 – Jul 2024</p>
                   </div>
                 </div>
                 <ul className="space-y-4 text-[15px] text-zinc-800 font-normal leading-relaxed tracking-tight w-full">
@@ -783,7 +783,7 @@ function App() {
                     <p className="text-zinc-500 font-medium text-sm">India</p>
                   </div>
                   <div className="text-left md:text-right">
-                    <p className="text-zinc-900 font-extrabold tracking-tight">Aug 2023 – Dec 2023</p>
+                    <p className="text-zinc-900 font-extrabold tracking-tight">Jan 2022 – Dec 2022</p>
                   </div>
                 </div>
                 <div className="flex flex-wrap gap-2 mb-6">
@@ -805,7 +805,7 @@ function App() {
                     <p className="text-zinc-500 font-medium text-sm">India</p>
                   </div>
                   <div className="text-left md:text-right">
-                    <p className="text-zinc-900 font-extrabold tracking-tight">Feb 2022 – June 2023</p>
+                    <p className="text-zinc-900 font-extrabold tracking-tight">Feb 2021 – Dec 2021</p>
                   </div>
                 </div>
                 <div className="flex flex-wrap gap-2 mb-6">
