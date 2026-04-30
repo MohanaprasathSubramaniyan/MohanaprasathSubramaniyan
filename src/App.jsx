@@ -263,12 +263,12 @@ function App() {
                   <p className="text-lg md:text-[20px] text-zinc-300 leading-[1.6] font-normal tracking-tight">
                       I am a User-centered Data Scientist with 3+ years of experience specializing in 
                       <span className="text-white font-semibold"> Habit Formation and member engagement analytics </span> 
-                      for high-growth tech ecosystems[cite: 5]. I expertize in translating complex user behavior 
+                      for high-growth tech ecosystems. I expertize in translating complex user behavior 
                       into actionable insights using <span className="text-white font-semibold">SQL, Python, and advanced A/B Testing </span> 
-                      methodologies[cite: 6]. I have a proven track record of designing experimentation 
+                      methodologies. I have a proven track record of designing experimentation 
                       frameworks that drive long-term retention, including features that 
                       <span className="text-white font-semibold"> increased session frequency by 22% </span> 
-                      and optimized product roadmaps through compelling data storytelling[cite: 7, 23, 25].
+                      and optimized product roadmaps through compelling data storytelling.
                   </p>
                 </motion.div>
 
