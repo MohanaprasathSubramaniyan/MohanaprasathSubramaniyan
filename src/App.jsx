@@ -282,7 +282,7 @@ function App() {
                   <a href="https://huggingface.co/Mohanaprasath" target="_blank" rel="noopener noreferrer" className="px-5 py-2 rounded-full bg-white/10 backdrop-blur-md border border-white/20 text-white text-[11px] font-bold uppercase tracking-widest hover:bg-white hover:text-black transition-all">
                     Hugging Face
                   </a>
-                  <a href="/Resume P.pdf" target="_blank" rel="noopener noreferrer" className="px-5 py-2 rounded-full bg-white/10 backdrop-blur-md border border-white/20 text-white text-[11px] font-bold uppercase tracking-widest hover:bg-white hover:text-black transition-all">
+                  <a href="/Resumes.pdf" target="_blank" rel="noopener noreferrer" className="px-5 py-2 rounded-full bg-white/10 backdrop-blur-md border border-white/20 text-white text-[11px] font-bold uppercase tracking-widest hover:bg-white hover:text-black transition-all">
                     Resume PDF
                   </a>
                   <button onClick={() => handleTabChange('projects')} className="px-6 py-2 rounded-full bg-white/80 backdrop-blur-xl border border-white/20 text-zinc-950 text-[11px] font-black uppercase tracking-widest hover:scale-105 transition-all shadow-xl">
