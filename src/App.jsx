@@ -261,11 +261,14 @@ function App() {
                 
                 <motion.div variants={itemVariants} custom={direction} className="max-w-4xl mb-12">
                   <p className="text-lg md:text-[20px] text-zinc-300 leading-[1.6] font-normal tracking-tight">
-                    I build production-oriented intelligent data ecosystems with a focus on scalability and MLOps. 
-                    As a Data Scientist, I have architected multi-terabyte sensor pipelines that achieved a 40% reduction in reporting discrepancies, 
-                    and engineered anomaly-detection frameworks that cut critical pipeline downtime by 20%. 
-                    I specialize in transforming unstructured chaos into clear, actionable AI orchestration pipelines, 
-                    bridging the gap between heavy data engineering and autonomous multi-agent systems.
+                      I am a User-centered Data Scientist with 3+ years of experience specializing in 
+                      <span className="text-white font-semibold"> Habit Formation and member engagement analytics </span> 
+                      for high-growth tech ecosystems[cite: 5]. I expertize in translating complex user behavior 
+                      into actionable insights using <span className="text-white font-semibold">SQL, Python, and advanced A/B Testing </span> 
+                      methodologies[cite: 6]. I have a proven track record of designing experimentation 
+                      frameworks that drive long-term retention, including features that 
+                      <span className="text-white font-semibold"> increased session frequency by 22% </span> 
+                      and optimized product roadmaps through compelling data storytelling[cite: 7, 23, 25].
                   </p>
                 </motion.div>
 
@@ -339,10 +342,10 @@ function App() {
                     </div>
                   </div>
                   <ul className="space-y-4 text-[15px] text-zinc-800 font-normal leading-relaxed tracking-tight w-full">
-                    <li>• Optimized high-velocity ETL/ELT pipelines in Azure Databricks using PySpark, orchestrating the ingestion of multi-terabyte FPSO sensor data into a standardized Medallion architecture (Bronze, Silver, Gold layers) for real-time monitoring and advanced asset analytics.</li>
-                    <li>• Developed sophisticated data modeling strategies within the Delta Lake environment, implementing schema enforcement and time-travel features to support predictive maintenance and reduce operational data redundancy by 30%.</li>
-                    <li>• Built automated data quality frameworks using Python to validate multi-source schema consistency, identifying and resolving over 40% of reporting discrepancies before they reached critical stakeholder dashboards.</li>
-                    <li>• Collaborated with cross-functional MLOps teams to integrate complex feature engineering into streaming workflows, facilitating the deployment of predictive failure models for high-value critical vessel components.</li>
+                    <li>• Spearheaded the analytics layer for a global monitoring platform, defining success metrics for habit-forming engagement features that increased session frequency by 22%.</li>
+                    <li>• Partnered with PMs to launch and measure A/B tests on platform notification systems, resulting in a 15% reduction in operational churn through optimized re-engagement timing.</li>
+                    <li>• Created clear data narratives for senior stakeholders that influenced the product roadmap, reducing manual reporting cycles by 40% via automated dashboards.</li>
+                    <li>• Championed data-driven wellness experiences by translating complex user behavior into actionable insights using SQL and advanced experimentation methodologies.</li>
                   </ul>
                 </motion.div>
 
@@ -364,10 +367,10 @@ function App() {
                     </div>
                   </div>
                   <ul className="space-y-4 text-[15px] text-zinc-800 font-normal leading-relaxed tracking-tight w-full">
-                    <li>• Consolidated disparate production and maintenance data streams into a centralized Snowflake data warehouse, establishing a single source of truth for high-concurrency operational analytics across the global enterprise.</li>
-                    <li>• Implemented proactive anomaly-detection monitoring for data ingestion pipelines, leveraging custom SQL alerting that improved system response time to data ingestion failures by 20%.</li>
-                    <li>• Optimized complex SQL queries and partitioning strategies, leading to a 25% improvement in dashboard refresh rates and significantly reducing monthly compute costs for heavy analytical workloads.</li>
-                    <li>• Spearheaded the automation of weekly performance reports, transitioning the business unit from manual Excel-based tracking to dynamic, real-time PowerBI visualizations.</li>
+                    <li>• Translated high-volume user behavior data into actionable retention insights, identifying patterns in cohort activity that unlocked \$2M+ in potential revenue recovery.</li>
+                    <li>• Built a churn propensity model using Python to identify "at-risk" users, enabling cross-functional teams to deploy proactive retention strategies that improved long-term engagement by 12%.</li>
+                    <li>• Utilized Mixpanel and SQL to map complex user journeys, uncovering friction points in the onboarding flow and increasing first-month conversion by 18%.</li>
+                    <li>• Performed deep-dive cohort analysis to identify drivers of engagement, ensuring high-fidelity insights guided the strategic direction of product wellness features.</li>
                   </ul>
                 </motion.div>
               </div>
@@ -770,9 +773,10 @@ function App() {
                   </div>
                 </div>
                 <ul className="space-y-4 text-[15px] text-zinc-800 font-normal leading-relaxed tracking-tight w-full">
-                  <li>• Optimized high-velocity ETL/ELT pipelines in Azure Databricks using PySpark, orchestrating the ingestion of multi-terabyte FPSO sensor data into a standardized Medallion architecture (Bronze, Silver, Gold layers) for real-time monitoring and advanced asset analytics.</li>
-                  <li>• Developed sophisticated data modeling strategies within the Delta Lake environment, implementing schema enforcement and time-travel features to support predictive maintenance and reduce operational data redundancy by 30%.</li>
-                  <li>• Built automated data quality frameworks using Python to validate multi-source schema consistency, identifying and resolving over 40% of reporting discrepancies before they reached critical stakeholder dashboards.</li>
+                  <li>• Spearheaded the analytics layer for a global monitoring platform, defining success metrics for habit-forming engagement features that increased session frequency by 22%.</li>
+                  <li>• Partnered with PMs to launch and measure A/B tests on platform notification systems, resulting in a 15% reduction in operational churn through optimized re-engagement timing.</li>
+                  <li>• Created clear data narratives for senior stakeholders that influenced the product roadmap, reducing manual reporting cycles by 40% via automated dashboards.</li>
+                  <li>• Championed data-driven wellness experiences by translating complex user behavior into actionable insights using SQL and advanced experimentation methodologies.</li>
                 </ul>
               </motion.div>
 
@@ -792,16 +796,17 @@ function App() {
                   ))}
                 </div>
                 <ul className="space-y-4 text-zinc-800 text-[15px] font-normal leading-relaxed tracking-tight w-full">
-                  <li>• Consolidated disparate production and maintenance data streams into a centralized Snowflake data warehouse, establishing a single source of truth for operational analytics across the global enterprise.</li>
-                  <li>• Implemented proactive anomaly-detection monitoring for data ingestion pipelines, leveraging custom SQL alerting that improved system response time to data failures by 20%.</li>
-                  <li>• Optimized complex SQL queries and indexing strategies, leading to a 25% improvement in dashboard refresh rates and reducing monthly compute costs for heavy analytical workloads.</li>
+                  <li>• Translated high-volume user behavior data into actionable retention insights, identifying patterns in cohort activity that unlocked \$2M+ in potential revenue recovery.</li>
+                  <li>• Built a churn propensity model using Python to identify "at-risk" users, enabling cross-functional teams to deploy proactive retention strategies that improved long-term engagement by 12%.</li>
+                  <li>• Utilized Mixpanel and SQL to map complex user journeys, uncovering friction points in the onboarding flow and increasing first-month conversion by 18%.</li>
+                  <li>• Performed deep-dive cohort analysis to identify drivers of engagement, ensuring high-fidelity insights guided the strategic direction of product wellness features.</li>
                 </ul>
               </motion.div>
 
               <motion.div variants={scrollVariants} initial="initial" whileInView="animate" viewport={{ once: true, margin: "-20px" }} className={glassCardClass}>
                 <div className="flex flex-col md:flex-row justify-between mb-8 gap-2">
                   <div>
-                    <h3 className="text-2xl font-extrabold tracking-[-0.04em]">Junior Data Scientist — NTT DATA</h3>
+                    <h3 className="text-2xl font-extrabold tracking-[-0.04em]">Intern Data Scientist (UX Insights)</h3>
                     <p className="text-zinc-500 font-medium text-sm">India</p>
                   </div>
                   <div className="text-left md:text-right">
@@ -814,8 +819,10 @@ function App() {
                   ))}
                 </div>
                 <ul className="space-y-4 text-zinc-800 text-[15px] font-normal leading-relaxed tracking-tight w-full">
-                  <li>• Performed comprehensive data cleaning and exploratory data analysis (EDA) on large datasets to identify critical business trends and patterns for executive intelligence reporting.</li>
-                  <li>• Developed automated scripts to streamline complex data extraction processes from legacy systems, reducing manual monthly reporting time by 15%.</li>
+                  <li>• Conducted deep-dive clickstream analysis to identify drivers of engagement, improving feature development efficiency for habit-building tools by 25%.</li>
+                  <li>• Designed customer feedback extraction pipelines using NLP to automate member voice research, reducing manual survey analysis by 50 hours per month.</li>
+                  <li>• Supported A/B testing initiatives by performing statistical power analyses, ensuring data-backed confidence for all production-facing UI optimizations.</li>
+                  <li>• Collaborated with engineering to fix instrumentation issues, maintaining data integrity for core habit formation features.</li>
                 </ul>
               </motion.div>
             </div>
