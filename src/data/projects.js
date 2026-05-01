@@ -1,4 +1,14 @@
 export const liveApps = [
+  
+  {
+    id: "habit-engine",
+
+    title: "Habit Formation Prediction Engine",
+
+    description: "Predictive ML engine identifying habit-forming milestones in users' first 30 days. KMeans clustering segments users by fitness routine consistency — powered by a live FastAPI backend with Random Forest + GBM ensemble.",
+    
+    url: "https://mohanaprasathsubramaniyan.github.io/habit-engine/frontend/dashboard.html"
+  },
 
   {
 
