@@ -9,7 +9,14 @@ export const liveApps = [
     
     url: "https://mohanaprasathsubramaniyan.github.io/habit-engine/frontend/dashboard.html"
   },
-
+  
+  {
+    id: "habit-engine-api",
+    title: "Habit Formation Engine — REST API",
+    description: "Production FastAPI backend with live ML inference. Test the /predict endpoint to get real habit formation probability, churn risk, cluster assignment, and LLM-powered intervention recommendations in under 50ms.",
+    url: "https://habit-engine-api.onrender.com/docs"
+  },
+  
   {
 
     id: 'nexus-policy',

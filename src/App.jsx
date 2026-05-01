@@ -855,9 +855,23 @@ function App() {
             <div className="grid grid-cols-1 gap-16">
               {liveApps.map(app => (
                 <div key={app.id} className="bg-white/80 backdrop-blur-xl border border-white/20 rounded-[40px] overflow-hidden shadow-2xl">
-                  <div className="p-8 border-b border-zinc-200">
-                    <h3 className="text-2xl font-extrabold mb-2 text-zinc-900 tracking-[-0.04em]">{app.title}</h3>
-                    <p className="text-zinc-600 font-normal tracking-tight">{app.description}</p>
+                  <div className="p-8 border-b border-zinc-200 flex flex-col md:flex-row md:items-center justify-between gap-4">
+                    <div>
+                      <h3 className="text-2xl font-extrabold mb-2 text-zinc-900 tracking-[-0.04em]">{app.title}</h3>
+                      <p className="text-zinc-600 font-normal tracking-tight">{app.description}</p>
+                    </div>
+                    
+                      href={app.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex-shrink-0 flex items-center gap-2 px-6 py-3 rounded-full bg-zinc-950 text-white text-[11px] font-black uppercase tracking-widest hover:bg-zinc-700 transition-all shadow-lg"
+                    >
+                      Open Full App
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
+                        <line x1="7" y1="17" x2="17" y2="7"></line>
+                        <polyline points="7 7 17 7 17 17"></polyline>
+                      </svg>
+                    </a>
                   </div>
                   <div className="h-[600px] bg-zinc-50/50">
                     <iframe src={app.url} className="w-full h-full border-none" title={app.title} />
